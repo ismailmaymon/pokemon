@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg",
+        "name": "Bulbasaur",
+        "firstName": "grass",
+        "secondName": "poison"
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg",
+        "name": "Ivysaur",
+        "firstName": "grass",
+        "secondName": "poison"
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg",
+        "name": "Venusaur",
+        "firstName": "grass",
+        "secondName": "poison"
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg",
+        "name": "Charmander",
+        "firstName": "fire",
+        "secondName": "none"
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg",
+        "name": "Charmeleon",
+        "firstName": "fire",
+        "secondName": "none"
+    },
+    {
+        "id": 6,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg",
+        "name": "Charizard",
+        "firstName": "fire",
+        "secondName": "flying"
+    },
+    {
+        "id": 7,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/7.svg",
+        "name": "Squirtle",
+        "firstName": "water",
+        "secondName": "none"
+    },
+    {
+        "id": 8,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/8.svg",
+        "name": "Wartortle",
+        "firstName": "water",
+        "secondName": "none"
+    },
+    {
+        "id": 9,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/9.svg",
+        "name": "Blastoise",
+        "firstName": "water",
+        "secondName": "none"
+    },
+    {
+        "id": 10,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/10.svg",
+        "name": "Caterpie",
+        "firstName": "bug",
+        "secondName": "none"
+    },
+    {
+        "id": 11,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/11.svg",
+        "name": "Metapod",
+        "firstName": "bug",
+        "secondName": "none"
+    },
+    {
+        "id": 12,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/12.svg",
+        "name": "Butterfree",
+        "firstName": "bug",
+        "secondName": "flying"
+    },
+    {
+        "id": 13,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/13.svg",
+        "name": "Weedle",
+        "firstName": "bug",
+        "secondName": "poison"
+    },
+    {
+        "id": 14,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/14.svg",
+        "name": "Kakuna",
+        "firstName": "bug",
+        "secondName": "poison"
+    },
+    {
+        "id": 15,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/15.svg",
+        "name": "Beedrill",
+        "firstName": "bug",
+        "secondName": "poison"
+    },
+    {
+        "id": 16,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/16.svg",
+        "name": "Pidgey",
+        "firstName": "normal",
+        "secondName": "flying"
+    },
+    {
+        "id": 17,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/17.svg",
+        "name": "Pidgeotto",
+        "firstName": "normal",
+        "secondName": "flying"
+    },
+    {
+        "id": 18,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/18.svg",
+        "name": "Pidgeot",
+        "firstName": "normal",
+        "secondName": "flying"
+    },
+    {
+        "id": 19,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/19.svg",
+        "name": "Rattata",
+        "firstName": "normal",
+        "secondName": "none"
+    },
+    {
+        "id": 20,
+        "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/20.svg",
+        "name": "Raticate",
+        "firstName": "normal",
+        "secondName": "none"
+    }
+]
